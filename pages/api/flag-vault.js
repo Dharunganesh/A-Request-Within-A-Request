@@ -1,6 +1,6 @@
 import { NextApiRequest, NextApiResponse } from 'next';
 
-const FLAG = process.env.CTF_FLAG || 'CTF{D3f4ult_Fl4g_N0t_S3t}';
+const FLAG = process.env.CTF_FLAG || 'ACN{$$RF_1$_FUN}';
 
 export default function handler(req, res) {
   // This endpoint should ideally only be accessible internally via SSRF.
