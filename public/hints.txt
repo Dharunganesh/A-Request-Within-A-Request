@@ -1,0 +1,4 @@
+Internal services documentation:
+- Port: 10000
+- Endpoints: flag-vault, admin, internal
+- Note: Some address formats might bypass restrictions
